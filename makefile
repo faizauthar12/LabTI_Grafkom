@@ -1,7 +1,7 @@
 # Makefile for Grafkom running in unix based system. 
 # faizauthar12
 
-CC = clang
+CC = gcc
 LIBS = -static-libgcc -lOpenGL -lglut -lGL -lGLU
 
 %: %.cpp
