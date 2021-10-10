@@ -7,7 +7,7 @@ Sebuah script makefile yang akan mempermudah pengerjaan praktikum LabTI Grafkom 
 ## macOS
 1. install homebrew dengan cara `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 2. kemudian jalankan syntax berikut `brew install glfw3 glew freeglut`
-3. Download ![xquartz](https://www.xquartz.org/)
+3. Download [xquartz](https://www.xquartz.org/)
 
 ## Linux
 1. install OpenGL dan freeglut menggunakan package manager kamu yaa
