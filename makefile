@@ -2,7 +2,7 @@
 # faizauthar12
 
 CC = gcc
-LIBS = -static-libgcc -lOpenGL -lglut -lGL -lGLU
+LIBS = -lOpenGL -lglut -lGL -lGLU
 
 %: %.cpp
 	$(CC) main.cpp $(LIBS) -o $@.o
